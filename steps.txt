@@ -1,5 +1,7 @@
 Steps to build a web with git
 
+- Make general style with grid
+
 - Make the title
 
 - Make the slides container
