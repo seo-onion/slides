@@ -1,0 +1,33 @@
+.container-slides{
+    width: calc(100% - 80px);
+    padding-left: 40px;
+    padding-right: 40px;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    gap: 80px;
+    align-items: center;
+
+}
+
+.slide{
+    height: 80%;
+    border-radius: 20px;
+    color: white;
+}
+
+.slide1{
+    background-color: var(--dark-blue);
+}
+
+.slide2{
+    background-color: var(--neon-red);
+}
+
+.slide3{
+    background-color: var(--neon-purple);
+}
+
+.slide4{
+    background-color: var(--fuchsia);
+}
+
