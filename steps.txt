@@ -1,0 +1,9 @@
+Steps to build a web with git
+
+- Make the title
+
+- Make the slides container
+
+- Make each slide
+
+- Add animation with js
