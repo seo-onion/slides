@@ -11,12 +11,20 @@
     padding:0px 28px;
     line-height: 2;
     font-family: var(--paragraph-font);
+    color: black;
+    transition: .2s;
 }
 
 .slide-title{
-    font-size: 48px;
+    font-size: 60px;
 }
 
 .slide-paragraph{
     font-size: 18px;
+}
+
+
+.slide:hover{
+    background-color: transparent;
+    color: white;
 }
